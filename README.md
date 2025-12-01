@@ -13,3 +13,6 @@ Clicking the link below will take you to the itch.io page for Cooking for the Co
 - [Cooking for the Common Good](https://anabanana22.itch.io/cooking-for-the-common-good)
 
 ## Installation Instructions
+Here are the installation instructions, which can also be found on the itch.io page for the game:
+
+After downloading the .zip file from itch.io, extract it, and then execute the .exe file to launch the game.
