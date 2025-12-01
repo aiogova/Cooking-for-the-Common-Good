@@ -1,4 +1,4 @@
-# Cooking for the Common Good
+# Cooking for the Common Good - Game Design Project
 
 ## Overview
 This is a project that I made in my Game Design class.
