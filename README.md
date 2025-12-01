@@ -1,7 +1,7 @@
 # Cooking for the Common Good
 
 ## Overview
-This is a project that I made for my Game Design class.
+This is a project that I made in my Game Design class.
 
 "Cooking for the Common Good" was a team project created for my Game Design class, where I served as the sole programmer. It is an educational game exploring the importance of healthy eating habits. The game was built in GameMaker using GML, and I was responsible for all aspects of programming, including game logic, mechanics, debugging, and playtesting.
 
