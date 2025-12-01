@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fadeinslow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fadeinslow",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

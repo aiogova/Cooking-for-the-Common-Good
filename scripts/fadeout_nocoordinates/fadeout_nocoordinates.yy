@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fadeout_nocoordinates",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fadeout_nocoordinates",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
